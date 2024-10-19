@@ -1,0 +1,25 @@
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=5.754 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=5.692 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=5.947 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=6.206 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=6.742 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=6.658 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=8.416 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=5.925 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=3.250 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=9.879 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=10.673 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
+64 bytes from 192.168.0.30: icmp_seq=0 ttl=128 time=6.615 ms
+PING 192.168.0.30 (192.168.0.30): 56 data bytes
